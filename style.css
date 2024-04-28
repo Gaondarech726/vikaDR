@@ -1,6 +1,6 @@
 body {
     background-image: url(./qb6pSoQPNQg2uuAuAeKIaW.jpg);
-    background-repeat: no-repeat;
+    background-size: contain;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-weight: 500;
@@ -8,9 +8,6 @@ body {
     color: white;
     text-align: center;
     overflow: hidden;
-    position: fixed;
-    top: 0;
-    bottom: 0;
 }
 
 button {
