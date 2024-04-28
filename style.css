@@ -29,6 +29,11 @@ button {
     flex-direction: column;
 }
 
+.flex > h1 {
+    color: black;
+    background-color: white;
+}
+
 @keyframes an {
     0% {
         left: 2000px;
@@ -62,4 +67,6 @@ button {
     position: relative;
     bottom: 300px;
     font-size: 15px;
+    background-color: white;
+    color: black;
 }
